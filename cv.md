@@ -7,7 +7,7 @@
   * Discord: Управдом#2090;
   * E-mail: etozhemaxim@gmail.com. 
    
- ## About Myself 
+## About Myself 
  
  Im Junior Frontend Developer, I have been studying frontend for 1 year now, but to consolidate my knowledge, I decided to take courses. I like
 apply new technologies in your code and generally learn something new.
